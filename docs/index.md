@@ -7,10 +7,10 @@ title: Brooke Escue's Resume
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 
-Brooke E. Escue
-345 S 2nd E, Rexburg, Idaho 83440
-614-506-2572
-esc19001@byui.edu
+Brooke E. Escue|
+345 S 2nd E, Rexburg, Idaho 83440|
+614-506-2572|
+esc19001@byui.edu|
 
 Dedicated student who has a passion for science.  Attends Brigham Young University- Idaho and majors in biology with an emphasis in bioinformatics.  Future plans include attending University of Idaho to pursue a degree in computational biology.    
 
