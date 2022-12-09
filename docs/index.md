@@ -1,9 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Brooke Escue's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -14,71 +13,60 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+Brooke E. Escue
+345 S 2nd E, Rexburg, Idaho 83440
+614-506-2572
+esc19001@byui.edu
 
-- Full academic scholarship with 4.0 GPA
+Dedicated student who has a passion for science.  Attends Brigham Young University- Idaho and majors in biology with an emphasis in bioinformatics.  Future plans include attending University of Idaho to pursue a degree in computational biology.    
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+##Education 
+Brigham Young University-Idaho, 2020-2023
+Bachelor of science in Biology
 
-- 4.0 Major GPA
+Columbus State Community College 2018-2020
+Associate of Science
+GPA 3.7
 
+Grove City High School, 2015-2019
+GPA 4.2 
+National Honor Society, Honor Roll
+Marching Band, Key Club  
 
-## Related Experience
+##Work Experience
 
-### Internships
+Zebrafish Developmental Biology Laboratory- Caleb Bailey 
+Brigham Young University- Idaho 
+September 2021-current 
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+•	Raising and breeding genetically engineered zebrafish harboring several CRISPR gene constructs to facilitate genome-wide screens looking for genes essential for color patterning during embryonic and juvenile development. Responsibilities included cage water monitoring, filter changes, maintaining automated feeding system, humane euthanasia, tissue collection, and PCR-based genotyping.
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+Metabolic lab research- Cody Smith, Michael Terribilini, 
+Brigham Young University-Idaho
+February 2022-current
 
-### Data Science Lead
+•	I am in the process of making a program that identifies a SNP location. My goal is to generate primer specifications that differ in base pairs length, upstream and downstream of the SNP.
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+Vet Tech - Countryside Veterinary Clinic 
+April 2021- Current
+St. Anthony, Idaho 83554
+•	Help assist the veterinarian with surgeries, artificial insemination, dental cleanings, and updating patient records.  Properly administer medication and vaccines.  Help assist other duties on the farm such as upkeep and attending to the horses and other small animals.  
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+Dog Care Specialist- Dogs Rule (August 2019-March 2021)   
+Grove City, Ohio 43123
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+•	Welcomed and greeted all guests. Kept the open areas clean and free of debris.  Immediately addressed issues that may compromised the health, safety, and 
+welfare of our guests.  Observe dogs for any disagreeable behavior and make sure they are fed, watered, and properly cared for.  
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+## Programming Skills 
+•	R programming Language 
+•	SQL
+•	Python 
 
 
-## Service and Work History
+![image](https://user-images.githubusercontent.com/120222207/206800846-9b12ce7c-6008-4ff2-994a-808b06e1c416.png)
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
 
 
 
