@@ -21,7 +21,7 @@ esc19001@byui.edu
 
 Dedicated student who has a passion for science.  Attends Brigham Young University- Idaho and majors in biology with an emphasis in bioinformatics.  Future plans include attending University of Idaho to pursue a degree in computational biology.    
 
-##Education 
+## Education 
 Brigham Young University-Idaho, 2020-2023
 Bachelor of science in Biology
 
@@ -34,7 +34,7 @@ GPA 4.2
 National Honor Society, Honor Roll
 Marching Band, Key Club  
 
-##Work Experience
+## Work Experience
 
 Zebrafish Developmental Biology Laboratory- Caleb Bailey 
 Brigham Young University- Idaho 
